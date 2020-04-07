@@ -4,6 +4,8 @@ I liked the original [minimal-functional-firefox mod](https://github.com/mut-ex/
 
 ## Preview
 
+<img src="https://media.giphy.com/media/MaD9HFKizMx0BEy8N8/giphy.gif" />
+
 ## Features
 
 * Minimal bloat
