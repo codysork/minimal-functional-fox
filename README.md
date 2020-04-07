@@ -6,13 +6,13 @@ I liked the original [minimal-functional-firefox mod](https://github.com/mut-ex/
 
 ## Features
 
-* **Only in this fork**: tabs, urlbar, and bookmarks are hidden by default, unless you hover your mouse over the navbar
 * Minimal bloat
 * Easy way to quickly change colors, tab dimensions, paddings to your liking through CSS variables
 * Pinned tabs are re-styled to stand out
 * Tab list underneath the navigator area
 * Centered URL bar, with a thinner, centered results list
 * Fix for buggy shadows on Linux
+* **Only in this fork**: tabs, urlbar, and bookmarks are hidden by default, unless you hover your mouse over the navbar
 
 ## Instructions
 
