@@ -1,12 +1,6 @@
 # minimal-functional-fox
 
-If you are looking for a minimal, yet functional Firefox userChrome stylesheet...you might like this one!
-
-
-
-**Note:** Firefox update 72.0 basically broke just about everything. I have fixed almost everything and pushed the fixed userChrome file. However if you encounter any bugs feel free to open an issue. Thanks!
-
-
+I liked the original [minimal-functional-firefox mod](https://github.com/mut-ex/minimal-functional-fox), but it just wasn't... minimal... enough.
 
 ## Preview
 
