@@ -12,6 +12,8 @@ If you are looking for a minimal, yet functional Firefox userChrome stylesheet..
 
 ## Features
 
+* Only in this fork: 
+  * Tabs, urlbar, and bookmarks are hidden by default, unless you hover your mouse over the navbar
 * Minimal bloat
 * Easy way to quickly change colors, tab dimensions, paddings to your liking through CSS variables
 * Pinned tabs are re-styled to stand out
