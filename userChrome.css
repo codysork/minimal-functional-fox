@@ -5,14 +5,14 @@ html#main-window {
 	--gap-between-tabs: 5px;
 	--margin-after-tab-list: 8x;
 	--margin-before-tab-list: 8px;
-	--tab-font: "SauceCodePro Nerd Font", sans-serif;
+	--tab-font: "Source Code Pro", sans-serif;
 	--tab-font-weight: 700;
 	--tab-height: 30px;
-	--tabs-container-height: 140px;
+	--tabs-container-height: 160px;
 
 	--urlbar-container-margin: 5px;
 	--urlbar-list-width: 60%;
-	--urlbar-text-font: "SauceCodePro Nerd Font", sans-serif;
+	--urlbar-text-font: "Source Code Pro", sans-serif;
 	--urlbar-text-size: 10pt;
 	--urlbar-text-weight: 700;
 
@@ -44,7 +44,7 @@ html#main-window {
 #PlacesToolbar {
 	align-items: center !important;
 	display: flex !important;
-	font-family: "SauceCodePro Nerd Font", sans-serif !important;
+	font-family: "Source Code Pro", sans-serif !important;
 	font-size: 10pt !important;
 	font-weight: 700 !important;
 	justify-content: center !important;
