@@ -10,7 +10,7 @@ If you are looking for a minimal, yet functional Firefox userChrome stylesheet..
 
 ## Preview
 
-![userChrome.css preview 1](https://github.com/turing753/myuserchrome/blob/master/preview.png)
+![userChrome.css preview 1](https://imgflip.com/gif/3vr9jv)
 
 ## Features
 
