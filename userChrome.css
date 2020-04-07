@@ -5,15 +5,15 @@ html#main-window {
 	--gap-between-tabs: 5px;
 	--margin-after-tab-list: 8x;
 	--margin-before-tab-list: 8px;
-	--tab-font: "Cantarell", sans-serif;
+	--tab-font: "SauceCodePro Nerd Font", sans-serif;
 	--tab-font-weight: 700;
-	--tab-height: 32px;
+	--tab-height: 30px;
 	--tabs-container-height: 140px;
 
 	--urlbar-container-margin: 5px;
 	--urlbar-list-width: 60%;
-	--urlbar-text-font: "mononoki Nerd Font", sans-serif;
-	--urlbar-text-size: 15pt;
+	--urlbar-text-font: "SauceCodePro Nerd Font", sans-serif;
+	--urlbar-text-size: 10pt;
 	--urlbar-text-weight: 700;
 
 	/* Firefox variables */
@@ -44,8 +44,8 @@ html#main-window {
 #PlacesToolbar {
 	align-items: center !important;
 	display: flex !important;
-	font-family: "mononoki Nerd Font", sans-serif !important;
-	font-size: 12pt !important;
+	font-family: "SauceCodePro Nerd Font", sans-serif !important;
+	font-size: 10pt !important;
 	font-weight: 700 !important;
 	justify-content: center !important;
 }
@@ -241,3 +241,13 @@ input#urlbar-input {
 	margin: 0 !important;
 }
 
+
+/* Minimalist navbar*/
+
+#main-window:not([customizing]) #navigator-toolbox:not(:focus-within):not(:hover) {
+	margin-top: -130px;
+}
+
+#navigator-toolbox {
+	transition: 0.2s margin-top ease-out;
+}
