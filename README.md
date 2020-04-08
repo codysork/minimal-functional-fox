@@ -1,4 +1,4 @@
-# minimal-functional-fox
+# super-minimal-fox
 
 I liked the original [minimal-functional-firefox mod](https://github.com/mut-ex/minimal-functional-fox), but it just wasn't... minimal... enough.
 
